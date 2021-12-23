@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can find me on <a href="https://www.linkedin.com/in/benedict-markus-schlueter/"><img height="30" src="https://github.com/Kakashiiiiy/Kakashiiiiy/blob/main/Icon/linkedin.png?raw=true"></a>
+You can find me on <a href="https://www.linkedin.com/in/benedict-markus-schlueter/"><img height="15" src="https://github.com/Kakashiiiiy/Kakashiiiiy/blob/main/Icon/linkedin.png?raw=true"></a>
 </p>
 
 <!-- Links to your social media accounts -->
