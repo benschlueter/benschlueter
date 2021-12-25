@@ -1,7 +1,11 @@
-### Hi there 👋
+### 
 
-You can find me on <a href="https://www.linkedin.com/in/benedict-markus-schlueter/"><img height="15" src="https://github.com/Kakashiiiiy/Kakashiiiiy/blob/main/Icon/linkedin.png?raw=true"></a>
-</p>
+- 🔭 I’m currently working at [Edgeless Systems](https://www.edgeless.systems/)
+- 🌱 I’m currently studying IT-Security and Information Technology at the [Ruhr-University-Bochum](https://informatik.rub.de/en/)
+- 📫 How to reach me ...
+
+    [![You can find me on](https://github.com/Kakashiiiiy/Kakashiiiiy/blob/main/Icon/linkedin.png)](https://www.linkedin.com/in/benedict-markus-schlueter/)
+
 
 <!-- Links to your social media accounts -->
 
