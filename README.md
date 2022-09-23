@@ -6,4 +6,4 @@
 
 [![You can find me on](https://github.com/Kakashiiiiy/Kakashiiiiy/blob/main/Icon/linkedin.png)](https://www.linkedin.com/in/benedict-markus-schlueter/)
 <!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/benedict-markus-schlueter/
+[1]: https://www.linkedin.com/in/bmschlueter/
