@@ -1,6 +1,6 @@
 ### 
 
-- 🔭 I’m currently working at [Edgeless Systems](https://www.edgeless.systems/) and studying IT-Security and Information Technology at the [Ruhr-University-Bochum](https://informatik.rub.de/en/)
+- 🔭 I’m currently studying IT-Security and Information Technology at the [Ruhr-University-Bochum](https://informatik.rub.de/en/)
 
 
 
