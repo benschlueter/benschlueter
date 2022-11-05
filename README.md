@@ -1,9 +1,3 @@
 ### 
 
-- 🔭 I’m currently studying IT-Security and Information Technology at the [Ruhr-University-Bochum](https://informatik.rub.de/en/)
-
-
-
-[![You can find me on](https://github.com/Kakashiiiiy/Kakashiiiiy/blob/main/Icon/linkedin.png)](https://www.linkedin.com/in/bmschlueter/)
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/bmschlueter/
+- 🔭 I’m currently studying Electrial Engineering and Information Technology at the [Ruhr-University-Bochum](https://informatik.rub.de/en/)
