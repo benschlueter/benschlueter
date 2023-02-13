@@ -1,3 +1,3 @@
 ### 
 
-- 🔭 I’m currently studying Electrial Engineering and Information Technology at the [Ruhr-University-Bochum](https://informatik.rub.de/en/)
+- 🔭 I’m currently a PhD student in the [ETH SECTRS Group]([https://informatik.rub.de/en/](https://sectrs.ethz.ch/))
